@@ -6,15 +6,27 @@ In this project, I use transfer learning on cartpole (openAI) env to demonstrate
 2. Later transfer the knowledge(weights) learnt from this to another similar task or environment.
 3. New task(env) is created by changing the source file of cart pole(details below)
 
+# Version details :
+* **Cartpole-normal.ipnyb** -  This is the basic cartpole with default parameters
+* **Cartpole-v1.ipnyb** - This cartpole is of different dimensions and gravity and trained without using transfer learning
+* **Cartpole-v2.ipnyb** - This is same as v2 but training is done with transfering previous knowledge learned from *normal Cartpole*
+
+To change the dimensions and env, open the source file from openai
 ![alt text](png/1.png)
 
 # Results :
+#### My observations
 
 ![alt text](png/2.png)
+
+#### Cartpole source code which i used had the following values:
+Although it can be freely changed as this is an experiment to create a similar env with different dynamics (E.g. in second cofig , gravity is 24 which is same as Jupiter. Thus imagine training a cart to balance a pole on Earth and then use it to work on Jupiter!)
 
 ![alt text](png/3.png)
 
 ![alt text](png/4.png)
+
+#### Final results :
 
 ![alt text](png/5.png)
 
