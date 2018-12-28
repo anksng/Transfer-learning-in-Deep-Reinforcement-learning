@@ -32,3 +32,10 @@ Although it can be freely changed as this is an experiment to create a similar e
 
 ![alt text](png/6.png)
 
+
+# Watch the difference in performance here -
+
+https://youtu.be/ImTZXh1SDQ8
+
+https://youtu.be/h_TIQVivaeM
+
