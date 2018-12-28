@@ -35,7 +35,11 @@ Although it can be freely changed as this is an experiment to create a similar e
 
 # Watch the difference in performance here -
 
+v1- 
+
 https://youtu.be/ImTZXh1SDQ8
+
+v2- with Transferring weights
 
 https://youtu.be/h_TIQVivaeM
 
